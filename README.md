@@ -1,2 +1,2 @@
 # rust-projects
- My journey with learning Rust
+A collection of code encompassing my journey learning Rust
